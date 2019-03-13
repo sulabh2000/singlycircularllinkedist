@@ -1,7 +1,5 @@
 package main;
 
-import static com.sun.tools.doclint.Entity.or;
-
 public class CircularLinkedList
 {
     int size = 0;
